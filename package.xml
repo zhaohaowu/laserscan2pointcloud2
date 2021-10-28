@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>LaserScan2PointCloud2</name>
+  <name>laserscan2pointcloud2</name>
   <version>0.0.0</version>
-  <description>The LaserScan2PointCloud2 package</description>
+  <description>The laserscan2pointcloud2 package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

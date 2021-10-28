@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(LaserScan2PointCloud2)
+project(laserscan2pointcloud2)
 SET(CMAKE_BUILD_TYPE "Debug")
 find_package(catkin REQUIRED COMPONENTS
   laser_geometry
